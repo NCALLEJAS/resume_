@@ -1,0 +1,26 @@
+selection {
+    padding: 2rem;
+}
+.con_text {
+    margin-left: 50%;
+}
+.name_text{
+    margin-left: 2%;
+}
+.head_text{
+    margin-left: 20%;
+}
+.word_text {
+    margin-left: 50%;
+    margin-right: 20%;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    padding: 2em;
+}
+div#left-column {
+    flex: 1 1 400px;
+    padding: 1em;
+    line-height: 1.5em;}
+
