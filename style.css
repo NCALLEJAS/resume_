@@ -3,9 +3,18 @@ selection {
 }
 .con_text {
     margin-left: 50%;
+    color:rgb(207, 105, 105)
 }
 .name_text{
     margin-left: 2%;
+    font-size:40px;
+}
+hr{
+    width: 60%
+}
+.email_text{
+    color:rgb(207, 105, 105);
+    text-decoration:none;
 }
 .head_text{
     margin-left: 20%;
@@ -23,4 +32,10 @@ div#left-column {
     flex: 1 1 400px;
     padding: 1em;
     line-height: 1.5em;}
+.year_text{
+    font-size: 80%;
+    color:  rgb(121, 120, 120);
+    margin-left: 50%;
+    margin-right: 20%;
+}
 
